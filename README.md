@@ -7,4 +7,4 @@ My name: seongwon Moon
 
 My class: OssPrac
 
-Date: 2024년 3월 27일
+Date: 2024.03.27
