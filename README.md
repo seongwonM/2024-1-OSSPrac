@@ -4,4 +4,7 @@
 [OSS실습 전자책 바로가기](https://wikidocs.net/book/13835)
 
 My name: seongwon Moon
+
 My class: OssPrac
+
+Date: 2024년 3월 27일
