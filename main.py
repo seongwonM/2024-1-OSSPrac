@@ -1,1 +1,1 @@
-print('Hello MSW!')
+print('Hello world - prac2')
