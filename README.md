@@ -10,3 +10,6 @@ My class: OssPrac
 Date: 2024.03.27
 
 hw
+
+Fetch & Merge
+A
